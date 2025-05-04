@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Math
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2391-strong-password-checker-ii](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2391-strong-password-checker-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
