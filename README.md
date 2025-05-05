@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0070-climbing-stairs) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Greedy
 |  |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0175-combine-two-tables) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
