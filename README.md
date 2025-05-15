@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2048-build-array-from-permutation](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
 |  |
 | ------- |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2391-strong-password-checker-ii](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2391-strong-password-checker-ii) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Hash Table
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0070-climbing-stairs) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
