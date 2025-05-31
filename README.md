@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2391-strong-password-checker-ii](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Enumeration
@@ -72,5 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
