@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2391-strong-password-checker-ii](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2391-strong-password-checker-ii) |
