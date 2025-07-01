@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2391-strong-password-checker-ii](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Hash Table
 |  |
