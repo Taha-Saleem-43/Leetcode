@@ -1,13 +1,11 @@
 class Solution {
 public:
     int possibleStringCount(string word) {
-        char prev = word[0];
         int count=0;
-        for(int i=1;i<word.size();i++){
-            if (prev==word[i]){
-                count+=1;
+        for(int i=0;i<word.size()-1;i++){
+            if (word[i]==word[i+1]){
+                count++;
             }
-            prev=word[i];
         }
     return count+1;
     }
