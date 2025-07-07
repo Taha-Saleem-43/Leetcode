@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
@@ -85,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Taha-Saleem-43/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Bucket Sort
 |  |
 | ------- |
