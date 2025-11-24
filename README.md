@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Taha-Saleem-43/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Taha-Saleem-43/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
